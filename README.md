@@ -57,7 +57,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
     
 ## Follow me on my social networks
 <div class="social-networks">
-    <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a name="twitter" href="https://twitter.com/maelton_ti" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a name="twitter" href="https://twitter.com/maelton_ti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
