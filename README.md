@@ -22,7 +22,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 </p>
 
-🌱 I'm currently learning Java, Typescript, Angular and Spring Boot<br/>
+🌱 I'm currently learning Java, Typescript, Angular, Spring Boot and Node.JS<br/>
 🤔 I’m looking for help with Software Design Patterns<br/>
 😄 Ask me about Data Structures, Java and Python<br/>
 
