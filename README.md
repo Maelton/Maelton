@@ -33,7 +33,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 <section class="tech-tookit">
 
-<img name="top-languages" height="200em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+<img name="top-languages" height="200em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton&layout=compact&langs_count=8&theme=algolia"/>
 
 <div class="tools" display="inline-block">
 
