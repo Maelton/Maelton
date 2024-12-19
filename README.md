@@ -10,7 +10,7 @@
 ### Hey devs, welcome to my GitHub profile! :wave::wave:
 
 <p style="text-align: justify;">
-I'm 22 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
+I'm 22 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! Currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
 
@@ -18,13 +18,13 @@ I'm 22 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 <p style="text-align: justify;">
     
-### I'm interested in technology in general and I'm always looking for new stuff to learn :bow:.
+### I'm interested in software engineering, and I've been studying this field of computer science very intensively recently :bow:.
 
 </p>
 
-🌱 I'm currently learning Java, Spring Framework and Jakarta EE<br/>
-🤔 I’m looking for help with Software Design Patterns<br/>
-😄 Ask me about Data Structures and Java<br/>
+🌱 I'm currently learning advanced concepts in Spring Framework<br/>
+🤔 I’m looking for help with software design patterns<br/>
+😄 Ask me about backend web development and Java<br/>
 
 </div>
 </section>
