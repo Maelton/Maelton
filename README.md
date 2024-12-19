@@ -10,7 +10,7 @@
 ### Hey devs, welcome to my GitHub profile! :wave::wave:
 
 <p style="text-align: justify;">
-I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
+I'm 22 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
 
