@@ -23,7 +23,7 @@ I'm 22 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! Cu
 </p>
 
 🌱 I'm currently learning advanced concepts in Spring Framework<br/>
-🤔 I’m looking for help with software design patterns<br/>
+🤔 I’m looking for help with frontend development<br/>
 😄 Ask me about backend web development and Java<br/>
 
 </div>
